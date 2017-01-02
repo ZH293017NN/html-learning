@@ -9,5 +9,8 @@
         <li>小说</li>
         <li>游戏</li>
       </ol>
+      <table>
+        <input type="text" value="请输入内容："/>
+      </table>
   </body>
 </html>
